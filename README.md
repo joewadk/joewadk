@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jawad Kabir</h1>
+<h1 align="center">Hey folks! My name is Jawad Kabir.</h1>
 <h3 align="center">I am a Computer Science Major at the City College of New York. I am a highly-determined CS major hoping to create powerful and meaningful software.</h3>
 
 - 🌱 I’m currently learning **React, Next.Js, Scheme**
