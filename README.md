@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey folks! Nice to meet ya! 👋
 
 <!--
 **joewadk/joewadk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
