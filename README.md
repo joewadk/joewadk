@@ -1,9 +1,14 @@
 <h1 align="center">Hey folks! My name is Jawad Kabir.</h1>
-<h5>I am a Computer Science Major at the City College of New York. I am a highly-determined CS major, focused priarily towards backend development.</h5>
+<h5>Hey there! I'm Jawad Kabir, a dedicated Computer Science major at the City College of New York. My primary focus is on backend development, and I'm passionate about integrating machine learning and cloud technologies into my projects.
 
-- 🌱 I’m currently learning **React, Next.Js, and Scheme**
+Currently, I'm enrolled in a few prestigious programs, including:
 
-- 👯 I’m looking to collaborate on **Hackathon Projects!**
+- Break Through Tech AI Fellowship
+- CUNY Tech Prep's Data Science Fellowship
+- Headstarter AI Fellowship
+
+Through these experiences, I'm honing my skills in machine learning and cloud computing, aiming to bring innovative and new solutions to backend development. Let's connect and collaborate on exciting projects!</h5>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
