@@ -12,8 +12,18 @@ Through these experiences, I'm honing my skills in machine learning and cloud co
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jawadkabir9675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jawadkabir9675" height="30" width="40" /></a>
-<a href="https://devpost.com/joewadk/challenges" target="blank"><img align="center" src="https://github.com/joewadk/joewadk/blob/dd98a29e7b5a269a2f5ac1dacbd50e4a83b44d16/devpost_logo.png" height="40" width="40" /></a><p align="center">
+  <a href="https://linkedin.com/in/jawadkabir9675" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jawadkabir9675" height="30" width="40" />
+  </a>
+  <a href="https://devpost.com/joewadk/challenges" target="blank">
+    <img align="center" src="https://github.com/joewadk/joewadk/blob/dd98a29e7b5a269a2f5ac1dacbd50e4a83b44d16/devpost_logo.png" height="40" width="40" />
+  </a>
+  <a href="https://huggingface.co/totallysaber" target="blank">
+    <img align="center" src="https://github.com/joewadk/joewadk/blob/main/hf-logo.png" height="40" width="40" />
+  </a>
+</p>
+
+
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
