@@ -7,7 +7,7 @@ Currently, I'm enrolled in a few prestigious programs, including:
 - CUNY Tech Prep's Data Science Fellowship
 - Headstarter AI Fellowship
 
-Through these experiences, I'm honing my skills in machine learning and cloud computing, aiming to bring innovative and new solutions to backend development. Let's connect and collaborate on exciting projects!</h5>
+Through these experiences, I have honed my skills in machine learning and cloud computing, aiming to bring innovative and new solutions to backend development. Let's connect and collaborate on exciting projects!</h5>
 
 
 <h3 align="left">Connect with me:</h3>
