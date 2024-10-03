@@ -90,5 +90,6 @@ Through these experiences, I have honed my skills in machine learning and data s
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joewadk&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joewadk&theme=cobalt)
 
