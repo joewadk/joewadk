@@ -92,7 +92,6 @@ Through these experiences, I have honed my skills in machine learning and data s
   </a> 
 </p>
 <div>
-<a href="https://github.com/dddictionary">
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joewadk&layout=compact&langs_count=8&theme=cobalt"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joewadk&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
