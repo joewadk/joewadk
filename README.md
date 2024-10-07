@@ -2,11 +2,12 @@
 
 Hey there! My name is Jawad Kabir, a dedicated Computer Science major at the City College of New York. My primary focus is on backend development, and I'm passionate about data science and machine learning!
 <br><br>
-Currently, I'm enrolled in a few prestigious programs, including:
+Currently I'm enrolled in a few prestigious programs, including:
 
 - Break Through Tech AI Fellowship
 - CUNY Tech Prep's Data Science Fellowship
 - Headstarter AI Fellowship
+- Google Software Engineering Program
 
 Through these experiences, I have honed my skills in machine learning and data science, aiming to bring innovative and new solutions. Let's connect and collaborate on exciting projects and potentially hackathons!</h5>
 
