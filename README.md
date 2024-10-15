@@ -9,7 +9,9 @@ Currently I'm enrolled in a few prestigious programs, including:
 - Headstarter AI Fellowship
 - Google Software Engineering Program
 
-Through these experiences, I have honed my skills in machine learning and data science, aiming to bring innovative and new solutions. Let's connect and collaborate on exciting projects and potentially hackathons!</h5>
+Also, I'm an avid hackathon enjoyer. Having attended 6 hackathons so far, and most recently winning first place in the Smart Cities Track at HackHarvard2024. You can find my DevPost to learn more below!!
+
+Through these experiences, I have honed my skills in software engineering and data science, aiming to bring innovative and new solutions. Let's connect and collaborate on exciting projects and potentially hackathons!</h5>
 
 
 <h3 align="left">Connect with me:</h3>
