@@ -1,6 +1,6 @@
 ![Header](https://github.com/joewadk/joewadk/blob/main/github-header-image.png)
 
-Hey there! My name is Jawad Kabir, a dedicated Computer Science major at the City College of New York. My primary focus is on backend development, and I'm passionate about data science and machine learning!
+Hey there! My name is Jawad Kabir, a dedicated Computer Science major at the City College of New York. My primary focus is on backend development, and I'm passionate about data science and software engineering!
 <br><br>
 Currently I'm enrolled in a few prestigious programs, including:
 
