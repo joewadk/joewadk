@@ -94,7 +94,8 @@ Through these experiences, I have honed my skills in software engineering and da
   </a> 
 </p>
 <div>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joewadk&layout=donut&theme=cobalt"/>
+
+ <!--  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joewadk&layout=donut&theme=cobalt"/>-->
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joewadk&hide=contribs&theme=cobalt"/>
 </div>
 
