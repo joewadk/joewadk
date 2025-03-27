@@ -14,7 +14,7 @@ Also, I'm an avid hackathon enjoyer. Having attended 6 hackathons so far, and mo
 Through these experiences, I have honed my skills in software engineering and data science, aiming to bring innovative and new solutions. Let's connect and collaborate on exciting projects and potentially hackathons!</h5>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left"> 🤝 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jawadkabir9675" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jawadkabir9675" height="30" width="40" />
@@ -27,7 +27,7 @@ Through these experiences, I have honed my skills in software engineering and da
   </a>
 </p>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left"> 📚 Languages and Tools:</h3>
 <p align="left">
   <!-- Python and Data Science -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -98,7 +98,7 @@ Through these experiences, I have honed my skills in software engineering and da
  <!--  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joewadk&layout=donut&theme=cobalt"/>-->
 
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joewadk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=joewadk&theme=tokyonight&hide_border=false)<br/>
 
