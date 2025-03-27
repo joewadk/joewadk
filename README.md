@@ -96,6 +96,19 @@ Through these experiences, I have honed my skills in software engineering and da
 <div>
 
  <!--  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joewadk&layout=donut&theme=cobalt"/>-->
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=joewadk&hide=contribs&theme=cobalt"/>
+
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=joewadk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=joewadk&theme=tokyonight&hide_border=false)<br/>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=joewadk&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=joewadk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
